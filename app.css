@@ -87,4 +87,13 @@
    padding: 10px;
    flex-direction: column;
  }
+
+ .footer-mid-row2 {
+   gap: 20px;
+   flex-direction: column;
+ }
+
+ .footer-mid-row3 {
+   padding: 0px 10px 60px;
+ }
 }

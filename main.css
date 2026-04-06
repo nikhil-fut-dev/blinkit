@@ -287,3 +287,47 @@ footer {
   padding: 10px 0px;
   color: rgb(102, 102, 102);
 }
+
+.footer-mid-row2 {
+  display: flex;
+  background-color: #fcfcfc;
+  width: 100%;
+  align-items:center ;
+  padding: 20px 0px;
+}
+
+.footer-mid-row2 p {
+  flex-basis: 40%;
+  color: rgb(102, 102, 102);
+  text-align: center;
+  font-size: 13px;
+}
+
+.footer-mid-row2 h5 {
+  color: rgb(102, 102, 102);
+}
+
+.appIcons {
+  display: flex;
+  flex-basis: 30%;
+  align-items: center;
+  gap: 20px;
+}
+
+.socialLink {
+  display: flex;
+  gap: 20px;
+}
+
+.socialLink i {
+  font-weight: 0.1;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  color: white;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1f1f1f;
+}
