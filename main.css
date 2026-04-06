@@ -281,3 +281,9 @@ footer {
   display: flex;
 }
 
+.footer-mid-row3 p {
+  font-size: 14px;
+  line-height: 20px;
+  padding: 10px 0px;
+  color: rgb(102, 102, 102);
+}
